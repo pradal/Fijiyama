@@ -3,8 +3,7 @@ Fijiyama README
 
 Welcome to Fijiyama github.
 
-* More informations about Fijiyama : 
-https//imagej.net/Fijiyama
+* More informations about Fijiyama : [https//imagej.net/Fijiyama](https//imagej.net/Fijiyama)
 
 
 * Take a tour of the code :
